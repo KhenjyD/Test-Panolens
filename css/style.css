@@ -1,0 +1,23 @@
+#x
+{
+    display: none;
+}
+
+#x img
+{
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+#y
+{
+    display: none;
+}
+
+#y img
+{
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
